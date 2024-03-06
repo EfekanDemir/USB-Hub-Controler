@@ -1,0 +1,11 @@
+C:\Users\efeka\source\repos\USB Hub Controller\USB Hub Controller\bin\Debug\USB Hub Controller.exe.config
+C:\Users\efeka\source\repos\USB Hub Controller\USB Hub Controller\bin\Debug\USB Hub Controller.exe
+C:\Users\efeka\source\repos\USB Hub Controller\USB Hub Controller\bin\Debug\USB Hub Controller.pdb
+C:\Users\efeka\source\repos\USB Hub Controller\USB Hub Controller\obj\Debug\USB Hub Controller.csproj.AssemblyReference.cache
+C:\Users\efeka\source\repos\USB Hub Controller\USB Hub Controller\obj\Debug\USB_Hub_Controller.Form1.resources
+C:\Users\efeka\source\repos\USB Hub Controller\USB Hub Controller\obj\Debug\USB_Hub_Controller.Properties.Resources.resources
+C:\Users\efeka\source\repos\USB Hub Controller\USB Hub Controller\obj\Debug\USB_Hub_Controller.Resource1.resources
+C:\Users\efeka\source\repos\USB Hub Controller\USB Hub Controller\obj\Debug\USB Hub Controller.csproj.GenerateResource.cache
+C:\Users\efeka\source\repos\USB Hub Controller\USB Hub Controller\obj\Debug\USB Hub Controller.csproj.CoreCompileInputs.cache
+C:\Users\efeka\source\repos\USB Hub Controller\USB Hub Controller\obj\Debug\USB Hub Controller.exe
+C:\Users\efeka\source\repos\USB Hub Controller\USB Hub Controller\obj\Debug\USB Hub Controller.pdb
